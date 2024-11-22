@@ -30,7 +30,7 @@ ML Algorithm used -  Random Forest Regression
 
 # User Interface
 
-![]((https://imgur.com/cYEYFog))
+![]((https://imgur.com/cYEYFog.png))
 
 
 # Results Comparision
